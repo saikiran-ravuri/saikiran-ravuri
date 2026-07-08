@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Sai Kiran 👋</h1>
 
-<!--
-**saikiran-ravuri/saikiran-ravuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Aspiring Software Engineer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Java & DSA • Full Stack Development • Software Design
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+- Focused on **problem solving and software engineering**
+- Building **real-world projects** through hands-on learning
+- Growing in **Full Stack Development and Machine Coding**
+- Strengthening **LLD and HLD** fundamentals
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode&perline=12" />
+</p>
+
+<p align="center">
+  <code>DSA</code>&nbsp;
+  <code>Machine Coding</code>&nbsp;
+  <code>LLD</code>&nbsp;
+  <code>HLD</code>
+</p>
