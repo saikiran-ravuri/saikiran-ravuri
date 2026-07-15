@@ -1,29 +1,80 @@
-<h1 align="center">Hi, I'm Sai Kiran 👋</h1>
-
-<h3 align="center">Aspiring Software Engineer</h3>
+<h1 align="center">Ravuri Sai Kiran</h1>
 
 <p align="center">
-  Java & DSA • Full Stack Development • Software Design
+<b>Software Engineer</b> • Java • JavaScript • Problem Solving
+</p>
+
+<p align="center">
+Building scalable software through clean code, continuous learning, and practical engineering projects.
 </p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-- Focused on **problem solving and software engineering**
-- Building **real-world projects** through hands-on learning
-- Growing in **Full Stack Development and Machine Coding**
-- Strengthening **LLD and HLD** fundamentals
+- Passionate about building software that is clean, maintainable, and user-focused.
+- Strengthening software engineering fundamentals through hands-on projects and consistent problem solving.
+- Exploring Machine Coding, modern frontend development, and software design principles.
+- Always learning by building, refining, and improving.
 
-## Tech Stack
+---
+
+## 🚀 Engineering Portfolio
+
+| Project | Focus Area | Status |
+|----------|------------|:------:|
+| 🌐 **WebScaler** | HTML & CSS | ✅ |
+| ⭐ **Star Rating** | JavaScript | ✅ |
+| ⏱ **Focus Timer** | JavaScript | ✅ |
+| 💬 **Threadly** | Machine Coding | 🚧 |
+| 📋 **Kanban Board** *(Upcoming)* | Machine Coding | 📅 |
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+`Java` • `JavaScript` • `SQL`
+
+### Frontend
+
+`HTML5` • `CSS3`
+
+### Core Skills
+
+`Data Structures & Algorithms` • `Machine Coding`
+
+### Tools
+
+`Git` • `GitHub` • `VS Code`
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode&perline=12" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saikiran-ravuri&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikiran-ravuri&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
-<p align="center">
-  <code>DSA</code>&nbsp;
-  <code>Machine Coding</code>&nbsp;
-  <code>LLD</code>&nbsp;
-  <code>HLD</code>
-</p>
+---
+
+## 🔗 Profiles
+
+- **GitHub**  
+  https://github.com/saikiran-ravuri
+
+- **LeetCode**  
+  https://leetcode.com/u/saikiran-ravuri/
+
+---
+
+<div align="center">
+
+### Building software with consistency, curiosity, and continuous improvement.
+
+</div>
